@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @marc-bhunu
-- 👀 I’m interested in ... Springboot, Javascript, React
-- 🌱 I’m currently learning ... More and More of my intrests
-- 💞️ I’m looking to collaborate on ...React, Javascript, Springboot Projects 
-- 📫 How to reach me ...macbhunu@gmail.com
+# Hello, World! 👋 I'm Marc Bhunu
 
-<!---
-marc-bhunu/marc-bhunu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Full Stack Developer | ☕ Spring Boot | 🌐 JavaScript | ⚛ React Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about building robust, scalable applications and constantly expanding my knowledge in the world of software development.
+
+## 🔥 Interests & Expertise
+- Backend Development with **Spring Boot**
+- Frontend Magic with **JavaScript** and **React**
+- Building **RESTful APIs** and **microservices**
+- Creating responsive and interactive **user interfaces**
+
+## 🌱 Currently Growing
+I'm always learning and currently focused on:
+- Advanced **Spring Framework** concepts
+- **React Hooks** and modern frontend patterns
+- **Cloud technologies** and deployment strategies
+- **Software architecture** best practices
+
+## 🤝 Looking to Collaborate
+I'm open to collaborating on interesting projects involving:
+- Full-stack applications (Spring Boot + React)
+- JavaScript libraries or frameworks
+- Open source contributions
+- Innovative web solutions
+
+## 📬 Get in Touch
+- Email: [macbhunu@gmail.com](mailto:macbhunu@gmail.com)
+- LinkedIn: [Marc Bhunu](https://www.linkedin.com/in/yourprofile) *(add your actual LinkedIn if you have one)*
+- Portfolio: [Your Portfolio Website]() *(add if you have one)*
+
+## � What I Bring to the Table
+```java
+public class MarcBhunu {
+    String skills = "Spring Boot, JavaScript, React, REST APIs";
+    String traits = "Clean Code Advocate, Problem Solver, Continuous Learner";
+    boolean lovesChallenges = true;
+    
+    public static void main(String[] args) {
+        System.out.println("Let's build something amazing together!");
+    }
+}
