@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm Marc Bhunu
+# Hello, World! 👋 I'm Mark Bhunu
 
 ### 💻 Full Stack Developer | ☕ Spring Boot | 🌐 JavaScript | ⚛ React Enthusiast
 
@@ -26,8 +26,7 @@ I'm open to collaborating on interesting projects involving:
 
 ## 📬 Get in Touch
 - Email: [macbhunu@gmail.com](mailto:macbhunu@gmail.com)
-- LinkedIn: [Marc Bhunu](https://www.linkedin.com/in/yourprofile) *(add your actual LinkedIn if you have one)*
-- Portfolio: [Your Portfolio Website]() *(add if you have one)*
+- LinkedIn: [Marc Bhunu](https://www.linkedin.com/in/mark-bhunu)
 
 ## � What I Bring to the Table
 ```java
